@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DinoAR-0.1.0";
 const contentToCache = [
-    "Build/DinosaurAR.loader.js",
-    "Build/DinosaurAR.framework.js",
-    "Build/DinosaurAR.data",
-    "Build/DinosaurAR.wasm",
+    "Build/ardino2.loader.js",
+    "Build/ardino2.framework.js",
+    "Build/ardino2.data",
+    "Build/ardino2.wasm",
     "TemplateData/style.css"
 
 ];
