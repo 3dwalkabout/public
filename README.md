@@ -6,11 +6,11 @@ Public HTML builds for sharing interactive examples with clients, hosted on GitH
 
 Each example must live in its own folder. Its client URL is the base URL followed by the folder name and a trailing slash.
 
-For example, `isuzu/index.html` is available at **https://3dwalkabout.github.io/public/isuzu/**.
+For a folder named `example`, the client URL would be `https://3dwalkabout.github.io/public/example/`.
 
 ```text
 README.md
-isuzu/
+example/
   index.html
   assets/
   models/
